@@ -3,7 +3,7 @@
 # About me:
 - junior full stack
 - Frontend Branch
-- Studied by my own in ![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) and Henry bootcamp
+- Studied by my own in <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white" alt="Udemy" height="20"/> and Henry bootcamp
 
 Here are some ideas to get you to know me :
 
