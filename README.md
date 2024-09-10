@@ -1,7 +1,9 @@
-## Hi there ,My name is Ian Tarquini and I 'm a FrontEnd Developer👋
+## Hi there ,My name is Ian Tarquini 👋
 
-<!--
-**Ianta0715/Ianta0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mi :
+# .junior full stack
+# .Frontend Branch
+# .Studied by my own and Henry bootcamp
 
 Here are some ideas to get you started:
 
@@ -10,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me?? here I leave you my personal accoints:
 iantarquini@hotmail.com
 +54 2615043000
--->
+
