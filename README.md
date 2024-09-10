@@ -12,5 +12,5 @@ Here are some ideas to get you to know me :
 - 📫 How to reach me?? here I leave you my personal accoints:
 iantarquini@hotmail.com
 +54 2615043000
-  https://img.shields.io/badge/linkedin-blue
+  (https://img.shields.io/badge/linkedin-blue)
 
