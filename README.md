@@ -1,9 +1,9 @@
 ## Hi there ,My name is Ian Tarquini 👋
 
 # Sobre mi :
-# .junior full stack
-# .Frontend Branch
-# .Studied by my own and Henry bootcamp
+- junior full stack
+- Frontend Branch
+- Studied by my own and Henry bootcamp
 
 Here are some ideas to get you started:
 
