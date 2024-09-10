@@ -5,7 +5,7 @@
 - Frontend Branch
 - Studied by my own and Henry bootcamp
 
-Here are some ideas to get you started:
+Here are some ideas to get you to know me :
 
 - 🔭 I’m currently working on the final proyect of my Bootcamp "HENRY" to get my final certification.
 - 🌱 I’m currently learning how to build a proyect using the IA to make the user experience even more easy.
