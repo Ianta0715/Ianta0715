@@ -17,7 +17,7 @@ iantarquini@hotmail.com
 
   [![linkedin](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/ian-tarquini-b83b72247/)
 
-## Favorities Tecnologies  
+## favorite technologies 
 <table><tr><td valign="top" width="33%">
 
 
