@@ -7,8 +7,8 @@
 
 Here are some ideas to get you to know me :
 
-- 🔭 I’m currently working on the final proyect of my Bootcamp "HENRY" to get my final certification.
-- 🌱 I’m currently learning how to build a proyect using the IA to make the user experience even more easy.
+- 🔭 I'm currently working as a Freelance Full Stack Developer, focusing on Frontend with React, TypeScript, and Next.js. Skilled in UX/UI design (Figma) and backend tools like Node.js, Express, Python, and PostgreSQL. Proficient in API testing (Postman) and content creation (Photoshop, Premiere Pro).
+- 🌱 I’m learning how to build a proyect using the IA to make the user experience even more easy.
 - 📫 How to reach me?? here I leave you my personal accounts:
  
 iantarquini@hotmail.com
