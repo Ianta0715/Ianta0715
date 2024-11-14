@@ -17,11 +17,11 @@ iantarquini4@gmail.com
 
   [![linkedin](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/ian-tarquini-b83b72247/)
 
-## favorite technologies 
+## favorite technologies.
 <table><tr><td valign="top" width="33%">
 
 
-  ### Frontend  
+  ### Frontend. 
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
