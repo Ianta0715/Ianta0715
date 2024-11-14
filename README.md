@@ -11,7 +11,7 @@ Here are some ideas to get you to know me :
 - 🌱 I’m learning how to build a proyect using the IA to make the user experience even more easy.
 - 📫 How to reach me?? here I leave you my personal accounts:
  
-iantarquini@hotmail.com
+iantarquini4@gmail.com
 
 +54 2615043000
 
