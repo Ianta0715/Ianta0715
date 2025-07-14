@@ -13,9 +13,9 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Frontend deve
 - 🎨 **Design Skills:** Proficient in UX/UI design using Figma
 - 🛠️ **Backend Expertise:** Node.js, Express, Python, and PostgreSQL
 - 🧪 **Testing:** API testing with Postman
-- 🎥 **Content Creation:** Photoshop, Premiere Pro , Rive
-- 🌱 **Currently Learning:** Building AI-powered projects to enhance user experience with Python
-- 📚 **Education:** Self-taught through Udemy and Henry Bootcamp and EDX
+- 🎥 **Content Creation:** Photoshop, Premiere Pro
+- 🌱 **Currently Learning:** Building AI-powered projects to enhance user experience
+- 📚 **Education:** Self-taught through Udemy and Henry Bootcamp
 
 ## 🛠️ Tech Stack
 
