@@ -75,59 +75,12 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=iantarquini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iantarquini&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=issues"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=iantarquini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iantarquini&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iantarquini&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantarquini&theme=tokyonight&hide_border=true" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iantarquini&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iantarquini&theme=default&hide_border=true&layout=compact&langs_count=8&hide=html,css"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantarquini&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css" />
-  </picture>
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iantarquini&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iantarquini&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantarquini&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📬 Let's Connect!
 
