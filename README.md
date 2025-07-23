@@ -84,13 +84,13 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 
 ## 📬 Let's Connect!
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ian-tarquini-b83b72247/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="42" height="42" hspace="10" /></a>
 </div>
 
 ---
 
-<div align="center">
+<div align="start">
   <img src="https://komarev.com/ghpvc/?username=iantarquini&label=Profile%20views&color=0e75b6&style=flat" />
   <br/>
   <b>"Building the future, one line of code at a time."</b> 🚀
