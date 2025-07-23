@@ -47,8 +47,8 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 
 ### 🛠️ Tools & Testing
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="62" height="62" hspace="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="62" height="62" hspace="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="62" height="62" hspace="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="62" height="62" hspace="10"/>
 </p>
 
 ---
@@ -85,15 +85,13 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 ## 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ian-tarquini-b83b72247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iantarquini4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+542615043000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ian-tarquini-b83b72247/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="42" height="42" hspace="10" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iantarquini&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ianta0715&label=Profile%20views&color=0e75b6&style=flat" />
   <br/>
   <b>"Building the future, one line of code at a time."</b> 🚀
 </div>
