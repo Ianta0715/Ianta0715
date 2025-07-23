@@ -91,7 +91,7 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ianta0715&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=iantarquini&label=Profile%20views&color=0e75b6&style=flat" />
   <br/>
   <b>"Building the future, one line of code at a time."</b> 🚀
 </div>
