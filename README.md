@@ -78,8 +78,8 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iantarquini&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantarquini&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ianta0715&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ianta0715&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📬 Let's Connect!
