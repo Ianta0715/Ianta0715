@@ -16,21 +16,31 @@ I'm Ian Tarquini, a **Full Stack Developer** with a strong passion for crafting 
 
 ## 🧰 My Toolbox
 
+### Languages
+<p align="center">
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="HTML" width="62" height="62" hspace="10"/>
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg"  alt="CSS" width="62" height="62" hspace="10"/>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="62" height="62" hspace="10"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="62" height="62" hspace="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="62" height="62" hspace="10"/>
+
+
+</p>
+
 ### 🚀 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="62" height="62" hspace="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="62" height="62" hspace="10"/>
+  <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" alt="Material UI" width="62" height="62" hspace="10"/>
 </p>
 
 ### 🧠 Backend & DevOps
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="62" height="62" hspace="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="62" height="62" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="62" height="62" hspace="10"/>
